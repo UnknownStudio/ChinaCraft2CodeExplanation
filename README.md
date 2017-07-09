@@ -1,2 +1,1 @@
-# ChinaCraft2CodeExplanation
-ChinaCraft 2 code explanation
+# ChinaCraft 2 代码详解
